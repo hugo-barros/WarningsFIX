@@ -1,0 +1,4 @@
+Jlint - program correctness verifier for Java        version 3.00 (Nov  9 2012)
+Verify file 'source/Account.class'
+java/lang/String.java:1: equals() was overridden but not hashCode().
+Verification completed: 1 reported messages.

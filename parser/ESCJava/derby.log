@@ -1,0 +1,13 @@
+Thu May 23 22:40:38 BRT 2013 : Apache Derby Servidor de Rede - 10.8.1.2 - (1095077) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+----------------------------------------------------------------
+Thu May 23 22:40:38 BRT 2013:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instância a816c00e-013e-d431-df14-ffffd271f554
+no diretório de banco de dados E:\jeanlucas\jean\UFG\5º Periodo\V&V\ParserEscJava\ERROS  
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_03-b05
+user.dir=C:\Program Files\Java\jdk1.7.0_03\db
+derby.system.home=E:\jeanlucas\jean\UFG\5º Periodo\V&V\ParserEscJava
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Thu May 23 22:44:12 BRT 2013: Shutting down Derby engine

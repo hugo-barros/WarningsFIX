@@ -1,0 +1,1 @@
+source/org/apache/log4j/Hierarchy.java:447: Lock org/apache/log4j/Hierarchy.ht is requested while holding lock <unknown>, with other thread holding org/apache/log4j/Hierarchy.ht and requesting lock <unknown>.

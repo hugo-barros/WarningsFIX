@@ -1,0 +1,1 @@
+source/org/apache/log4j/xml/examples/XCategory.java:65: Method org/apache/log4j/Category.debug(java.lang.Object) is not overridden by method with the same name of derived class 'org/apache/log4j/xml/examples/XCategory'.

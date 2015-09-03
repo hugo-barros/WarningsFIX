@@ -1,0 +1,1 @@
+source/org/apache/log4j/CategoryKey.java:37: Compare strings as object references.

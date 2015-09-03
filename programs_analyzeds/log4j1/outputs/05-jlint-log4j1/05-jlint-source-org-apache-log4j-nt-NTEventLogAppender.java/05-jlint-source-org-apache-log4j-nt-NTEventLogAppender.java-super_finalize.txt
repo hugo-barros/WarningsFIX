@@ -1,0 +1,1 @@
+source/org/apache/log4j/nt/NTEventLogAppender.java:165: Method finalize() doesn't call super.finalize().

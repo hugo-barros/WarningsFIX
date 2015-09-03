@@ -1,0 +1,1 @@
+source/org/apache/log4j/AppenderSkeleton.java:125: Method finalize() doesn't call super.finalize().

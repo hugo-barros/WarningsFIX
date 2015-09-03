@@ -1,0 +1,1 @@
+source/org/apache/log4j/net/SocketNode.java:70: Method org/apache/log4j/net/SocketNode.run() implementing 'Runnable' interface is not synchronized.

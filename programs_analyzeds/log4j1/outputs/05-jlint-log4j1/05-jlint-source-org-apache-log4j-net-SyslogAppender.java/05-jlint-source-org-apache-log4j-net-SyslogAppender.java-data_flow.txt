@@ -1,0 +1,1 @@
+source/org/apache/log4j/net/SyslogAppender.java:333: Inequality comparison can be replaced with equality comparison.
