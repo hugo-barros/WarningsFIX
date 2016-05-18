@@ -83,7 +83,6 @@ import net.sf.jtreemap.swing.example.BuilderXML;
 import net.sf.jtreemap.swing.example.DemoUtil;
 import warningfix.Connection.Conexao;
 import warningfix.GUI.TABs_GUI;
-import org.six11.util.math.PCA;
 
 public class JTreeMapWarningsFIX extends JInternalFrame implements
 		PropertyChangeListener {
