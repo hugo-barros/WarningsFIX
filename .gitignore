@@ -1,13 +1,3 @@
-#ant specific
-dist/
-build/
-
-#netbeans specific
-core
-nbproject/*
-!nbproject/project.properties
-!nbproject/project.xml
-
 #java specific
 *.class
 
@@ -19,3 +9,4 @@ nbproject/*
 *.swp
 *.DS_Store
 *.lock
+/target/
